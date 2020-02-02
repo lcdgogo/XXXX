@@ -1,2 +1,2 @@
 
-wili:www.lcdgogo.com
+wiki:www.lcdgogo.com
